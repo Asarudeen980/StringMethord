@@ -13,6 +13,7 @@ public class CheckBooleanFunction {
 		System.out.println(result3);
 		System.out.println(result4);
 		System.out.println(result5);
+		System.out.println(result5);
 		
 		
 		
